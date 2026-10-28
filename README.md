@@ -1,5 +1,7 @@
 # tutorial-nestjs-api
 
+[![Deploy to Light Cloud](https://light-cloud.com/button.svg)](https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/tutorial-nestjs-api)
+
 A small NestJS 12 API with a PostgreSQL connection, used in the Light Cloud tutorial
 [Deploy a NestJS API with a database connection](https://blog.light-cloud.com/tutorials/deploy-a-nestjs-api).
 
